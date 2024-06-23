@@ -24,3 +24,9 @@
   border-radius: 8px;
   border: 2px solid;
 }
+.video-container {
+  border: 2px solid red;
+}
+.video {
+  width: 50%;
+}
